@@ -17,7 +17,7 @@ Free Game tracking application for windows. Built with Flutter.</p>
 <hr>
 <h1 class="code-line" data-line-start=18 data-line-end=19 ><a id="Resimler_18"></a>Resimler</h1>
 <h2 class="code-line" data-line-start=19 data-line-end=21 ><a id="httpsrawgithubusercontentcomcreosBFreeGameTrackmainresim1png_19"></a><img src="https://raw.githubusercontent.com/creosB/FreeGameTrack/main/resim1.png" alt=""></h2>
-<h2 class="code-line" data-line-start=19 data-line-end=23 ><a id="httpsrawgithubusercontentcomcreosBFreeGameTrackmainresim2png_23"></a><img src="https://raw.githubusercontent.com/creosB/FreeGameTrack/main/resim2.png" alt=""></h2>
+<h2 class="code-line" data-line-start=19 data-line-end=23 ><a id="httpsrawgithubusercontentcomcreosBFreeGameTrackmainresimpng_23"></a><img src="https://raw.githubusercontent.com/creosB/FreeGameTrack/main/resim.png" alt=""></h2>
 <h1 class="code-line" data-line-start=21 data-line-end=22 ><a id="License_21"></a>License</h1>
 <hr>
 <h2 class="code-line" data-line-start=23 data-line-end=25 ><a id="Herhangi_bir_yerde_paylamak_deiiklik_yapmak_iin_ncelikle_bana_ulanz_23"></a>Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</h2>
